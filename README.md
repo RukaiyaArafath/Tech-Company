@@ -1,2 +1,2 @@
 # Tech-Company
-Small HR Management System 
+ Simple HR Management System using Java programming language and Netbeans IDE
